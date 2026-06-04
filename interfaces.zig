@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-06-02 03:27:25.495108600 UTC
+// 2026-06-04 01:27:03.498730 UTC
 
 pub const cs2_dumper = struct {
     pub const interfaces = struct {
