@@ -7410,27 +7410,22 @@
         },
         "type": "uint32"
       },
-      "_32f__": {
+      "_3____": {
         "alignment": 0,
         "members": {},
         "type": "unknown"
       },
-      "_K2f__": {
+      "_K____": {
         "alignment": 0,
         "members": {},
         "type": "unknown"
       },
-      "___f__": {
+      "______": {
         "alignment": 0,
         "members": {},
         "type": "unknown"
       },
-      "_b2f__": {
-        "alignment": 0,
-        "members": {},
-        "type": "unknown"
-      },
-      "_o2f__": {
+      "_b____": {
         "alignment": 0,
         "members": {},
         "type": "unknown"
