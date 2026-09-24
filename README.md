@@ -1,29 +1,25 @@
 # CS2 Offsets
 
-Counter-Strike 2 тоглоомын offset-уудыг автоматаар шинэчилж байршуулдаг сан.
+A repository that automatically updates and publishes offsets for Counter-Strike 2.
 
-## Танилцуулга
+## Introduction
 
-Энэхүү repository нь CS2 тоглоомын шинэчлэлт бүрийн дараа хамгийн сүүлийн үеийн offset-уудыг агуулдаг.
+This repository contains the latest offsets for Counter-Strike 2 after each game update.
 
-Зорилго нь хөгжүүлэгчид, судлаачид болон Source 2 хөдөлгүүр сонирхогчдод offset-уудыг цэгцтэй, ашиглахад хялбар хэлбэрээр хүргэх юм.
+Its purpose is to provide developers, researchers, and Source 2 engine enthusiasts with CS2 offsets in a clean, organized, and easy-to-use format.
 
-## Онцлог
+## Features
 
-* CS2 шинэчлэлт бүрийн дараа шинэчлэгдэнэ
-* Олон төрлийн гаралтын форматтай
-* Төсөлдөө нэгтгэхэд хялбар
-* Нээлттэй эх кодтой
-* Хөнгөн бөгөөд энгийн бүтэцтэй
+* Updated after CS2 game updates
+* Multiple output formats
+* Easy to integrate into projects
+* Open source
+* Lightweight and simple structure
 
+## Update Policy
 
-## Шинэчлэлтийн Бодлого
+Offsets are updated whenever Counter-Strike 2 updates introduce changes to the game's memory structures.
 
-CS2 тоглоомын шинэчлэлтийн улмаас санах ойн бүтэц өөрчлөгдөх бүрд offset-ууд шинэчлэгдэнэ.
+## Disclaimer
 
-## Анхааруулга
-
-Энэхүү repository нь зөвхөн боловсрол, судалгааны зориулалтаар нийтлэгдсэн болно.
-
-
-
+This repository is published for educational and research purposes only.
